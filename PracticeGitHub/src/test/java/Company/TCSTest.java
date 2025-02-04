@@ -10,6 +10,7 @@ public class TCSTest {
 		Reporter.log("TCS Test Launched");
 		
 		Reporter.log("Amarender Bahubali is here");
+		Reporter.log("Amarender Bahubali is not here");
 	}
 
 }
