@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class MyDemoCommitToGithub {
 	@Test
 	public void Demo() {
-		Reporter.log("The amarender bahubali", true);
+		Reporter.log("The Amrendra bahubali", true);
 	}
 
 }
